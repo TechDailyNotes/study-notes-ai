@@ -46,4 +46,11 @@
 
 ### Model Based
 
+1. Memory-Augmented Neural Networks (MANN)
+2. Meta Networks
+
 ### Optimization Based
+
+1. LSTM
+2. MAML (Model-Agnostic Meta-Learning)
+3. Reptile

@@ -19,3 +19,9 @@
 
 1. Self-Attention vs. Cross-Attention
 2. Global/Soft Attention vs. Local/Hard Attention
+
+## Applications
+
+1. Transformer
+2. SAGAN (Self-Attention GAN)
+3. SNAIL (Simple Neural Attention Meta Learner)
