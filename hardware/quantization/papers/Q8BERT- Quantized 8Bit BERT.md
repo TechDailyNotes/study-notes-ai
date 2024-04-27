@@ -13,7 +13,7 @@ Explores the implementation of quantization-aware training during the fine-tunin
    1. Test the quantized BERT model on the GLUE benchmark and the SQuAD dataset.
    2. Maintain 99% of the model's original accuracy across multiple NLP tasks.
 3. Implementation
-   1. Quantize all the Embedding and FC layers to Int8.
+   1. Quantize all the Embedding and FC layers to Int8. (GEMM operations)
    2. Keep Softmax layers, Layer Normalization layers, and GELU layers in FP32.
 4. Evaluation
    1. Dataset
